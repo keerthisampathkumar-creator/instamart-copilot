@@ -1,0 +1,49 @@
+{
+  "run_id": "run_S6",
+  "scenario_id": "S6",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a refund AGENT."
+    },
+    {
+      "role": "user",
+      "content": "Check refund for order ORD-404."
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "c23",
+          "name": "get_order",
+          "arguments": {
+            "order_id": "ORD-404"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "c23",
+      "name": "get_order",
+      "content": "{\"error\": \"order not found\"}"
+    }
+  ],
+  "tokens_used": 37,
+  "step_number": 1,
+  "tools_executed": [
+    "get_order"
+  ],
+  "steps": [
+    {
+      "tool": "get_order",
+      "arguments": {
+        "order_id": "ORD-404"
+      },
+      "observation": {
+        "error": "order not found"
+      }
+    }
+  ]
+}

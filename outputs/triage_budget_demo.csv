@@ -1,0 +1,51 @@
+ticket_id,customer_id,status,category,segment_name,priority,route,tokens_used
+TICK-3000,CUST-1226,skipped_empty,,,NORMAL,human_review,0
+TICK-3001,CUST-1078,skipped_empty,,,NORMAL,human_review,0
+TICK-3002,CUST-1144,skipped_empty,,,NORMAL,human_review,0
+TICK-3003,CUST-1241,skipped_empty,,,NORMAL,human_review,0
+TICK-3004,CUST-1031,flagged_long,,,NORMAL,human_review,0
+TICK-3005,CUST-1262,flagged_long,,,NORMAL,human_review,0
+TICK-3006,CUST-1210,flagged_long,,,NORMAL,human_review,0
+TICK-3007,CUST-1070,flagged_long,,,NORMAL,human_review,0
+TICK-3008,CUST-1383,classified_json,billing,High-Value Loyalists,NORMAL,support_queue,53
+TICK-3009,CUST-1196,classified_json,delivery,New Explorers,NORMAL,support_queue,48
+TICK-3010,CUST-1057,classified_json,billing,New Explorers,NORMAL,support_queue,53
+TICK-3011,CUST-1423,classified_json,delivery,Active Regulars,HIGH,premium_desk,48
+TICK-3012,CUST-1468,classified_json,billing,At-Risk Lapsed,HIGH,premium_desk,53
+TICK-3013,CUST-1111,classified_json,delivery,New Explorers,NORMAL,support_queue,48
+TICK-3014,CUST-1047,classified_json,billing,New Explorers,NORMAL,support_queue,53
+TICK-3015,CUST-1434,classified_json,delivery,At-Risk Lapsed,HIGH,premium_desk,48
+TICK-3016,CUST-1184,classified_json,billing,New Explorers,NORMAL,support_queue,53
+TICK-3017,CUST-1366,classified_json,delivery,New Explorers,NORMAL,support_queue,48
+TICK-3018,CUST-1326,classified_json,billing,New Explorers,NORMAL,support_queue,53
+TICK-3019,CUST-1164,classified_json,delivery,High-Value Loyalists,NORMAL,support_queue,48
+TICK-3020,CUST-1214,classified_json,billing,Active Regulars,HIGH,premium_desk,53
+TICK-3021,CUST-1330,classified_json,delivery,New Explorers,NORMAL,support_queue,48
+TICK-3022,CUST-1329,classified_json,billing,Active Regulars,NORMAL,support_queue,53
+TICK-3023,CUST-1120,classified_json,delivery,Active Regulars,NORMAL,support_queue,48
+TICK-3024,CUST-1212,classified_json,billing,Active Regulars,HIGH,premium_desk,53
+TICK-3025,CUST-1310,classified_json,delivery,High-Value Loyalists,NORMAL,support_queue,48
+TICK-3026,CUST-1040,classified_json,billing,New Explorers,NORMAL,support_queue,53
+TICK-3027,CUST-1352,classified_json,delivery,Active Regulars,HIGH,premium_desk,48
+TICK-3028,CUST-1403,classified_json,billing,High-Value Loyalists,NORMAL,support_queue,53
+TICK-3029,CUST-1288,classified_json,delivery,At-Risk Lapsed,HIGH,premium_desk,48
+TICK-3030,CUST-1167,classified_json,billing,New Explorers,NORMAL,support_queue,53
+TICK-3031,CUST-1482,classified_json,delivery,High-Value Loyalists,NORMAL,support_queue,48
+TICK-3032,CUST-1033,classified_json,billing,New Explorers,NORMAL,support_queue,53
+TICK-3033,CUST-1317,classified_json,delivery,High-Value Loyalists,NORMAL,support_queue,48
+TICK-3034,CUST-1483,classified_json,billing,New Explorers,NORMAL,support_queue,53
+TICK-3035,CUST-1474,classified_json,delivery,High-Value Loyalists,NORMAL,support_queue,48
+TICK-3036,CUST-1274,classified_json,billing,High-Value Loyalists,NORMAL,support_queue,53
+TICK-3037,CUST-1426,classified_json,delivery,Active Regulars,NORMAL,support_queue,48
+TICK-3038,CUST-1196,classified_json,billing,New Explorers,NORMAL,support_queue,53
+TICK-3039,CUST-1190,classified_json,delivery,High-Value Loyalists,NORMAL,support_queue,48
+TICK-3040,CUST-1220,classified_json,billing,High-Value Loyalists,NORMAL,support_queue,53
+TICK-3041,CUST-1009,classified_json,delivery,Active Regulars,NORMAL,support_queue,48
+TICK-3042,CUST-1119,classified_json,billing,At-Risk Lapsed,HIGH,premium_desk,53
+TICK-3043,CUST-1122,classified_json,delivery,New Explorers,NORMAL,support_queue,48
+TICK-3044,CUST-1246,classified_json,billing,High-Value Loyalists,NORMAL,support_queue,53
+TICK-3045,CUST-1359,classified_json,delivery,High-Value Loyalists,NORMAL,support_queue,48
+TICK-3046,CUST-1396,classified_json,billing,Active Regulars,HIGH,premium_desk,53
+TICK-3047,CUST-1220,classified_json,delivery,High-Value Loyalists,NORMAL,support_queue,48
+TICK-3048,CUST-1260,classified_json,billing,At-Risk Lapsed,HIGH,premium_desk,53
+TICK-3049,CUST-1057,classified_json,delivery,New Explorers,NORMAL,support_queue,48

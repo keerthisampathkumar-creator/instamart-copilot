@@ -1,0 +1,8 @@
+scenario_id,user_message,expected_status,expected_refund_inr
+S1,Please refund my late order ORD-101.,REFUND,128.25
+S2,"Order ORD-102 arrived very late, I want a refund.",REFUND,135.0
+S3,"My big grocery order ORD-103 was delayed, refund please.",ESCALATE,1999.0
+S4,I want a late refund for ORD-104.,DENIED,0.0
+S5,Refund my cancelled order ORD-105.,DENIED,0.0
+S6,Check refund for order ORD-404.,NOT_FOUND,0.0
+S7,Process complex loop scenario S7 for ORD-999.,FALLBACK_MAX_ITERATIONS,0.0

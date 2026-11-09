@@ -1,41 +1,26 @@
-product_id,product_name,category,price_inr
-P001,Snacks Item 1,Snacks,1139.33
-P002,Personal Care Item 2,Personal Care,547.02
-P003,Electronics Item 3,Electronics,1426.21
-P004,Personal Care Item 4,Personal Care,776.89
-P005,Dairy Item 5,Dairy,1156.64
-P006,Grocery Item 6,Grocery,200.84
-P007,Personal Care Item 7,Personal Care,755.97
-P008,Dairy Item 8,Dairy,63.99
-P009,Grocery Item 9,Grocery,1248.86
-P010,Personal Care Item 10,Personal Care,1023.6
-P011,Dairy Item 11,Dairy,586.3
-P012,Snacks Item 12,Snacks,246.05
-P013,Electronics Item 13,Electronics,942.38
-P014,Grocery Item 14,Grocery,998.4
-P015,Electronics Item 15,Electronics,1156.01
-P016,Personal Care Item 16,Personal Care,318.86
-P017,Personal Care Item 17,Personal Care,745.57
-P018,Snacks Item 18,Snacks,822.81
-P019,Electronics Item 19,Electronics,829.0
-P020,Grocery Item 20,Grocery,1486.25
-P021,Grocery Item 21,Grocery,587.77
-P022,Snacks Item 22,Snacks,1282.25
-P023,Personal Care Item 23,Personal Care,700.29
-P024,Grocery Item 24,Grocery,281.77
-P025,Snacks Item 25,Snacks,1329.36
-P026,Dairy Item 26,Dairy,747.39
-P027,Dairy Item 27,Dairy,482.44
-P028,Personal Care Item 28,Personal Care,741.43
-P029,Grocery Item 29,Grocery,861.91
-P030,Personal Care Item 30,Personal Care,996.92
-P031,Electronics Item 31,Electronics,866.87
-P032,Personal Care Item 32,Personal Care,852.14
-P033,Dairy Item 33,Dairy,769.89
-P034,Personal Care Item 34,Personal Care,409.82
-P035,Electronics Item 35,Electronics,1456.89
-P036,Electronics Item 36,Electronics,1021.2
-P037,Snacks Item 37,Snacks,494.31
-P038,Grocery Item 38,Grocery,893.89
-P039,Dairy Item 39,Dairy,1258.66
-P040,Snacks Item 40,Snacks,1218.14
+product_id,category,price
+PROD-500,Snacks,374.84530663506564
+PROD-501,Beverages,148.6376110990203
+PROD-502,Snacks,249.73674609642256
+PROD-503,Grocery,166.61527815866157
+PROD-504,Snacks,198.07914972106687
+PROD-505,Beverages,232.9831536371167
+PROD-506,Beverages,233.1011325589216
+PROD-507,Snacks,104.64027106218725
+PROD-508,Beverages,283.29147271553836
+PROD-509,Grocery,62.51120115978302
+PROD-510,Grocery,81.36516617354755
+PROD-511,Snacks,31.00303278330198
+PROD-512,Snacks,73.1775437324221
+PROD-513,Snacks,205.07149438920013
+PROD-514,Beverages,254.2576959906603
+PROD-515,Grocery,323.8870964875911
+PROD-516,Grocery,69.47872254197134
+PROD-517,Beverages,344.76916020608826
+PROD-518,Grocery,306.0105744530257
+PROD-519,Snacks,181.15176838628926
+PROD-520,Snacks,375.1870848269832
+PROD-521,Snacks,396.6439062892345
+PROD-522,Grocery,105.85066971969779
+PROD-523,Snacks,170.31457643660616
+PROD-524,Beverages,372.78628672819315
